@@ -5,7 +5,7 @@ Assets used in SmashRanker
 - `main/<start.gg character id>/<alt>.webp`: full character render
 - `stock/<start.gg character id>/<alt>.webp`: head icon
 
-Super Smash Bros. Ultimate characters use ids 1271 and up. Super Smash Bros. Melee characters use ids 1–26, plus 628 (Sheik / Zelda, drawn as Sheik).
+Super Smash Bros. Ultimate characters use ids 1271 and up. Super Smash Bros. Melee characters use ids 1–26, plus 628 (Sheik / Zelda, drawn as Sheik) and 1744 (Random, a copy of Ultimate's Random art from 1746).
 
 ## Credits
 

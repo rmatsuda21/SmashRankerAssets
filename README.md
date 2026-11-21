@@ -4,10 +4,17 @@ Assets used in SmashRanker
 
 - `main/<start.gg character id>/<alt>.webp`: full character render
 - `stock/<start.gg character id>/<alt>.webp`: head icon
+- `mural/<start.gg character id>/<alt>.webp`: Super Smash Bros. Ultimate mural render. Only some costumes exist; alt numbers match `main/`.
 
 Super Smash Bros. Ultimate characters use ids 1271 and up. Super Smash Bros. Melee characters use ids 1–26, plus 628 (Sheik / Zelda, drawn as Sheik) and 1744 (Random, a copy of Ultimate's Random art from 1746).
 
 ## Credits
+
+### Super Smash Bros. Ultimate mural renders
+
+- `mural/`: the "Mural Alternate Costumes" collection by [@MuralAltDrive](https://x.com/MuralAltDrive) and its contributors, built on the original mural isolation by [@ElevenZM](https://x.com/ElevenZM).
+- Converted to WebP with the transparent border trimmed and the longest edge capped at 1800px. Files marked as placeholders in the collection are included.
+- Each Mii uses one colour from the collection as alt 0 (Brawler: orange, Swordfighter: cyan, Gunner: orange). Pyra and Mythra on their own use the collection's solo images.
 
 ### Super Smash Bros. Melee
 

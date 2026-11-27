@@ -1,0 +1,11 @@
+// Cloudflare deploys this repository as static files: every push to `main`
+// runs `npx wrangler deploy`, which uploads the folders below as they are.
+// `_headers` sets CORS and the cache time; `.assetsignore` lists what is not
+// uploaded.
+{
+  "name": "smashrankerassets",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "."
+  }
+}

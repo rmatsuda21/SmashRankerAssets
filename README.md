@@ -8,6 +8,10 @@ Assets used in SmashRanker
 
 Super Smash Bros. Ultimate characters use ids 1271 and up. Super Smash Bros. Melee characters use ids 1–26, plus 628 (Sheik / Zelda, drawn as Sheik) and 1744 (Random, a copy of Ultimate's Random art from 1746).
 
+## Hosting
+
+The site loads these files from Cloudflare Pages, which deploys this repository's root on every push to `main` (no build command, output directory `/`). `_headers` gives every file CORS and a one-day cache. Each file must stay under 25 MB and the repository under 20,000 files.
+
 ## Credits
 
 ### Super Smash Bros. Ultimate mural renders
